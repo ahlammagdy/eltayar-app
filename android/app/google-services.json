@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052117050958",
+    "project_id": "eltayarapp-be618",
+    "storage_bucket": "eltayarapp-be618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052117050958:android:cdce23cc9d151ea85c451f",
+        "android_client_info": {
+          "package_name": "com.example.eltayar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYnXTmxcFLu-N-cqWYRaYuRJbTFpOBVZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
